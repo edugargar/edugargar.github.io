@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
+      <title>Bayesian Factor Analysis</title>
       <link>https://edugargar.github.io/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>External Project</title>
+      <title>Probabilistic Recommendation Systems</title>
       <link>https://edugargar.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -1162,8 +1162,7 @@ Here&#39;s some important information...
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://edugargar.github.io/publication/medical/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1216,8 +1215,7 @@ With Jekyll, something that looked like&lt;/p&gt;
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://edugargar.github.io/publication/sli/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
